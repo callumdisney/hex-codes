@@ -11,5 +11,5 @@ Colours used when displaying web pages on the internet. They can be used for man
 I get them from [simpleicons.org](https://simpleicons.org/).
 
 <br><br>
-## Silly boring poo poo credit stuff
+## Credits
 All the lists are compiled by Callum Disney. I put the txt files into [the Sendeyo Online Converter](https://sendeyo.com/onlineconverter/en/image-jpeg/file) to convert them into json files. The codes are from [simpleicons.org](https://simpleicons.org/).
