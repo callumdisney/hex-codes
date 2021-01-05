@@ -14,4 +14,6 @@ I get them from [simpleicons.org](https://simpleicons.org/).
 I started this project on **5th January 2021**.
 <br><br>
 ## Credits
-All the lists are compiled by Callum Disney. I put the txt files into [the Sendeyo Online Converter](https://sendeyo.com/onlineconverter/en/image-jpeg/file) to convert them into json files. The codes are from [simpleicons.org](https://simpleicons.org/).
+All the lists are compiled by Callum Disney. I put the txt files into [the Sendeyo Online Converter](https://sendeyo.com/onlineconverter/en/image-jpeg/file) to convert them into json files.
+<br>
+The original hex codes are from [simpleicons.org](https://simpleicons.org/).
